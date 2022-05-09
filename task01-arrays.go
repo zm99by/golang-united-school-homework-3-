@@ -8,6 +8,6 @@ func average(input [15]float32) (result float32) {
 		count += v
 	}
 	result = count / 15
-	
-	return 
+
+	return
 }
